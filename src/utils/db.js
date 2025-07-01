@@ -20,7 +20,7 @@ export const projectList = [
             title: 'Jogo da forca',
             description: 'Versão digital do clássico jogo da forca, onde o jogador tenta advinhar a palavra secreta.',
             image: '/enforcado.png',
-            link: 'https://exemplo.com/dashboard',
+            link: 'https://eliseufranco.github.io/jogo_da_forca/',
         },
         {
             id: 4,
